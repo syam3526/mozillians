@@ -2,6 +2,10 @@
 ========
 ![build status](https://travis-ci.org/mozilla/mozillians.svg?branch=master)
 
+[![Updates](https://pyup.io/repos/github/syam3526/mozillians/shield.svg)](https://pyup.io/repos/github/syam3526/mozillians/)
+
+[![Python 3](https://pyup.io/repos/github/syam3526/mozillians/python-3-shield.svg)](https://pyup.io/repos/github/syam3526/mozillians/)
+
 A community directory for **Mozillians** to connect with each other.
 
 Table of Contents
